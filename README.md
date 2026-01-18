@@ -1,2 +1,2 @@
-# winter-project-1
-this is my winter project on bank account management
+# Bank-Account-Management-System
+Winter Training Program – Project 1. Java-based Bank Account Management System using OOP principles, Swing GUI, file handling, and security features.
